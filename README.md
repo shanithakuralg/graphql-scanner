@@ -1,7 +1,7 @@
 # GraphQL Endpoint Scanner
 
 <div align="center">
-  <img src="logo.png" alt="GraphQL Scanner Logo" width="200"/>
+  <img src="./img/poster.png" alt="GraphQL Scanner Logo" width="200"/>
   <h1>GraphQL Endpoint Scanner</h1>
   <p>Advanced Detection Tool</p>
 </div>
