@@ -1,10 +1,5 @@
 # GraphQL Endpoint Scanner
 
-<div align="center">
-  <img src="./img/poster.png" alt="GraphQL Scanner Logo" width="200"/>
-  <h1>GraphQL Endpoint Scanner</h1>
-  <p>Advanced Detection Tool</p>
-</div>
 ![GraphQL Scanner Banner](img/poster.png)
 
 A powerful and fast GraphQL endpoint scanner to discover potential vulnerabilities and misconfigurations in web applications.
