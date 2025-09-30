@@ -79,3 +79,5 @@ python graphql_scanner.py -l domains.txt -t 100
 
 - **Saurabh Tomar**
 - **GitHub:** [https://github.com/shanithakuralg](https://github.com/shanithakuralg)
+- **LinkedIn:** [https://www.linkedin.com/in/saurabh-tomar-b3095b21b/](https://www.linkedin.com/in/saurabh-tomar-b3095b21b/)
+- **Portfolio:** Coming Soon
