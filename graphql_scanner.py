@@ -30,12 +30,14 @@ start_time = None
 # Clean, professional banner
 BANNER = f"""
 {Fore.CYAN}╔════════════════════════════════════════════════════════════════════════╗
-║                          {Fore.WHITE}{Style.BRIGHT}GRAPHQL ENDPOINT SCANNER{Style.RESET_ALL}{Fore.CYAN}                          ║
-║                              {Fore.YELLOW}Advanced Detection Tool{Style.RESET_ALL}{Fore.CYAN}                              ║
+║            {Fore.WHITE}{Style.BRIGHT}GRAPHQL ENDPOINT SCANNER{Style.RESET_ALL}                                    {Fore.CYAN}║
+║                 {Fore.YELLOW}Advanced Detection Tool{Style.RESET_ALL}           {Fore.CYAN}                     ║
 ╠════════════════════════════════════════════════════════════════════════╣
-║ {Fore.WHITE}Author:{Style.RESET_ALL}    Saurabh Tomar                                             {Fore.CYAN}║
-║ {Fore.WHITE}Version:{Style.RESET_ALL}   1.6 (Clean Progress)                                     {Fore.CYAN}║
-║ {Fore.WHITE}GitHub:{Style.RESET_ALL}    https://github.com/shanithakuralg                      {Fore.CYAN}║
+║ {Fore.WHITE}Author:{Style.RESET_ALL}    Saurabh Tomar                                               {Fore.CYAN}║
+║ {Fore.WHITE}Version:{Style.RESET_ALL}   1.6 (Clean Progress)                                        {Fore.CYAN}║
+║ {Fore.WHITE}LinkedIn:{Style.RESET_ALL}  https://www.linkedin.com/in/saurabh-tomar-b3095b21b/        {Fore.CYAN}║
+║ {Fore.WHITE}GitHub:{Style.RESET_ALL}    https://github.com/shanithakuralg                           {Fore.CYAN}║
+║ {Fore.WHITE}Portfolio:{Style.RESET_ALL} Coming Soon                                                 {Fore.CYAN}║
 ╚════════════════════════════════════════════════════════════════════════╝{Style.RESET_ALL}
 """
 
