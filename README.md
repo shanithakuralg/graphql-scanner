@@ -1,6 +1,6 @@
 # GraphQL Endpoint Scanner
 
-![GraphQL Scanner Banner](img/graphql_scann_1.png)
+![GraphQL Scanner Banner](img/poster.png)
 
 A powerful and fast GraphQL endpoint scanner to discover potential vulnerabilities and misconfigurations in web applications.
 
